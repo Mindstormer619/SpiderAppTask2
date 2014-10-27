@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spider Task 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hintText">Enter some text…</string>
+    <string name="bold">Embolden!</string>
+    <string name="italic">Italicize!</string>
+    <string name="normal">Revert!</string>
+    <string name="submit">Submit!</string>
+    <string name="title_activity_activity2">Activity 2</string>
+
+</resources>
